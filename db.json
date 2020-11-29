@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "titre": "Musique 1", "auteur": "typicode","url":"1.mp3","image":"https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials.jpg" },{ "id": 2, "titre": "musique 2","url":"2.mp3", "auteur": "typicode" , "image":"https://3pageplus.com/wp-content/uploads/2019/03/change-background-color-on-wix.jpg" },{ "id": 3, "titre": "musique 3","url":"3.mp3", "auteur": "killa hakan" , "image":"https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
